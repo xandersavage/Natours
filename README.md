@@ -1,2 +1,3 @@
 # Natous
-Natours project(Advanced CSS and SASS Course)
+Natours project
+A website i designed using advanced CSS and SASS
